@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rhythm Nagre 
 - 👀 I’m interested in Web development | Pen testing |
-- 🌱 I’m currently learning Sc-900
+- 🌱 I’m currently learning Google Cloud
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: nagrerhythm@gmail.com
 
